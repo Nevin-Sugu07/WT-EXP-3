@@ -21,20 +21,20 @@
             <table width="90%">
                 <tr>
                     <th align="left">
-                        <img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\profilepic.jpg" width="350" height="200">
+                        <img src="profilepic.jpg" width="350" height="200">
                     </th>
                     <th width="50%" align="center">
                         <h1 style="color: white;text-align:center">Aurther Quil</h1>
                     </th>
                     <th class="invert" width="20%">
-                        <a href="https://www.facebook.com/"><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\Class\45982.png" width="20" height="20"></a>
-                        <a href="https://www.linkedin.com/in/nevin-sugu-444400209/" ><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\Class\61109.png" width="20" height="20"></a>
-                        <a href="https://www.instagram.com/" ><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\Class\87390.png" width="20" height="20"></a>
+                        <a href="https://www.facebook.com/"><img src="45982.png" width="20" height="20"></a>
+                        <a href="https://www.linkedin.com/in/nevin-sugu-444400209/" ><img src="61109.png" width="20" height="20"></a>
+                        <a href="https://www.instagram.com/" ><img src="87390.png" width="20" height="20"></a>
                     </th>
                 </tr>
                 <br><br>
                 <tr>
-                    <th background="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\bg.jpg">
+                    <th background="bg.jpg">
                     </th>
                 </tr>
             </table>
@@ -64,16 +64,16 @@
             <table width="100%">
                 <tr>
                     <th align="center">
-                        <a href="https://en.wikipedia.org/wiki/HTML5"><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\html 5 logo.png" width="100" height="100" ></a>
+                        <a href="https://en.wikipedia.org/wiki/HTML5"><img src="html 5 logo.png" width="100" height="100" ></a>
                     </th>
                     <th align="center">
-                        <a href="https://en.wikipedia.org/wiki/CSS"><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\SCC Logo.png" width="100" height="100"></a>
+                        <a href="https://en.wikipedia.org/wiki/CSS"><img src="SCC Logo.png" width="100" height="100"></a>
                     </th>
                     <th align="center">
-                        <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\js.png" width="100" height="100"></a>
+                        <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="js.png" width="100" height="100"></a>
                     </th>
                     <th align="center">
-                        <a href="https://en.wikipedia.org/wiki/PHP"><img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\php logo.png" width="100" height="100" ></a>
+                        <a href="https://en.wikipedia.org/wiki/PHP"><img src="php logo.png" width="100" height="100" ></a>
                     </th>
                 </tr>
             </table>
@@ -81,7 +81,7 @@
             <table>
                 <tr>
                     <th align="center">
-                        <img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\skill-logo.png" width="40%" heigt="40%">
+                        <img src="skill-logo.png" width="40%" heigt="40%">
                         <h2 style="color: white">Skill</h2>
                         <h4 style="color: white; text-align:left;">
                             <ul>
@@ -91,7 +91,7 @@
                         </h4>
                     </th>
                     <th align="center">
-                        <img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\course logo.jpg" width="10%" heigt="10%">
+                        <img src="course logo.jpg" width="10%" heigt="10%">
                         <h2 style="color: white">Courses</h2>
                         <h4 style="color: white; text-align:center;">
                                 <li>Python For Everyone</li>
@@ -99,7 +99,7 @@
                         </h4>
                     </th>
                     <th>
-                        <img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\LAB\Used items\hobby logo.png" width="60%" height="60%">
+                        <img src="hobby logo.png" width="60%" height="60%">
                         <h2 style="color: white">Hobbies</h2>
                         <h4 style="color: white; text-align:left;">
                             <ul>
